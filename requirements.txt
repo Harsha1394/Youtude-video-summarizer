@@ -1,0 +1,4 @@
+streamlit==1.40.0
+youtube-transcript-api==0.6.2
+transformers==4.46.2
+torch==2.2.2
